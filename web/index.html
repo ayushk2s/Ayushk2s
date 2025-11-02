@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+
+  <base href="$FLUTTER_BASE_HREF">
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="Ayush Portfolio - Apps | AI | Trading Bots">
+
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Ayush Portfolio">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <link rel="icon" type="image/png" href="favicon.png"/>
+  <title>Ayush | Portfolio</title>
+  <link rel="manifest" href="manifest.json">
+
+  <!-- 🔥 CUSTOM LOADING SCREEN STYLE -->
+  <style>
+    body {
+      margin: 0;
+      overflow: hidden;
+      background: transparent;
+    }
+
+    #loadingScreen {
+      position: fixed;
+      inset: 0;
+      background: radial-gradient(circle at center, #001114 0%, #000000 80%);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      font-family: "Poppins", sans-serif;
+      z-index: 99999;
+      text-align: center;
+      transition: opacity 0.8s ease-out, visibility 1s;
+    }
+
+    .loader {
+      width: 70px;
+      height: 70px;
+      border: 6px solid #00ffee22;
+      border-top-color: #00ffee;
+      border-radius: 50%;
+      animation: spin 1s linear infinite, glow 1.5s ease-in-out infinite alternate;
+      margin-bottom: 25px;
+      filter: drop-shadow(0 0 10px #00ffee);
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    @keyframes glow {
+      0% { filter: drop-shadow(0 0 2px #00ffee); }
+      100% { filter: drop-shadow(0 0 20px #00ffee); }
+    }
+
+    #loadingText {
+      color: #00ffee;
+      font-size: 22px;
+      font-weight: 600;
+      text-shadow: 0 0 12px #00ffee;
+      animation: fadeText 2s ease-in-out infinite alternate;
+      max-width: 90%;
+    }
+
+    @keyframes fadeText {
+      0% { opacity: 0.6; }
+      100% { opacity: 1; }
+    }
+
+    /* ✅ Responsive adjustments */
+    @media(max-width: 480px) {
+      .loader {
+        width: 55px;
+        height: 55px;
+      }
+      #loadingText {
+        font-size: 16px;
+      }
+    }
+  </style>
+
+</head>
+
+<body>
+
+<!-- 👑 EPIC CUSTOM LOADER -->
+<div id="loadingScreen">
+  <div class="loader"></div>
+  <p id="loadingText">Wait yrr, loading…</p>
+</div>
+
+<!-- FLUTTER APP BOOT -->
+<script src="flutter_bootstrap.js" async></script>
+
+<!-- 🔥 LOADER MESSAGE ANIMATIONS + SMOOTH HIDE -->
+<script>
+  const messages = [
+    "Wait yrr, loading…",
+    "Why taking tension? 😎",
+    "Relax bro… I am coming 😁",
+    "Maybe your internet slow 🤭",
+    "Turbo mode ON… 🚀",
+    "Dreams are loading… ✨"
+  ];
+
+  let i = 0;
+  const textRef = document.getElementById("loadingText");
+
+  setInterval(() => {
+    i = (i + 1) % messages.length;
+    textRef.innerHTML = messages[i];
+  }, 2000);
+
+  // Hide when Flutter is ready
+  window.addEventListener("flutter-first-frame", function () {
+    const loader = document.getElementById("loadingScreen");
+    loader.style.opacity = "0";
+    loader.style.visibility = "hidden";
+    setTimeout(() => {
+      loader.remove();
+      document.body.style.overflow = "auto";
+    }, 1400);
+  });
+</script>
+
+</body>
+</html>
