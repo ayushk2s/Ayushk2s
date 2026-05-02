@@ -46,13 +46,25 @@ class _HomePageState extends State<HomePage>
   late AnimationController _scanController;
 
   final String displayName = 'Ayush Pandey';
-  final String role = 'AI · Robotics · Space-Tech Developer';
+  final String role = 'AI · Robotics · Defence-Tech Developer';
   final String shortBio =
   '''Ayush Pandey — 18-year-old Innovator (2025)
 Building intelligent systems that merge AI, robotics, and embedded technology. Passionate about C++ and Python, developing autonomous hardware, and innovating in quantitative trading. Entrepreneur at heart — already building apps, experimenting with defense-tech concepts, and creating futuristic digital experiences. Driven to launch impactful companies and shape a world where technology empowers human potential.''';
 
 
   final List<Map<String, String>> projects = [
+    {
+      'title' : 'MSR-Algorithm',
+      'desc' : 
+      'A Dart-based algorithmic crypto futures trading bot combining SFI trend-following and Support/Resistance zone breakout strategies across Asterdex and MEXC exchanges.',
+      'link' : 'https://github.com/ayushk2s/My-MSR-related-stratagies'
+    },
+    {
+      'title' : 'G-Algorithm',
+      'desc' : 
+      'A 24/7 automated crypto futures bot that buys/sells based on RSI + SuperTrend Fibonacci signals, takes partial profits at targets, and cuts losses at -1% — deployed live on MEXC across 21 pairs.',
+      'link' : 'https://github.com/ayushk2s/g_trading_algorithm'
+    },
     {
       'title': 'FarmYara',
       'desc':
