@@ -8,7 +8,7 @@ Driven to develop technology that amplifies human potential — from autonomous 
 ## 🌟 About Me
 
 - 🧠 Passionate about **AI, robotics & embedded engineering**
-- 💻 Skilled in **Python, Dart (Flutter)** and learning **C++ / Rust**
+- 💻 Skilled in **Python, Dart (Flutter)** and learning **C++**
 - 📡 Exploring **defense-tech, BCI, drones, autonomous systems**
 - 📈 Quantitative trader experimenting with automation & signals
 - 🏗️ Built apps, trading algorithms, IoT prototypes & cloud systems
@@ -21,7 +21,7 @@ Driven to develop technology that amplifies human potential — from autonomous 
 | Domain | Tools & Technologies |
 |-------|--------------------|
 | App Development | Flutter (Android / iOS / Web), Firebase, REST APIs |
-| Programming | Python, Dart, C++, Rust (learning) |
+| Programming | Python, Dart, C++ (learning) |
 | AI & Data | ML basics, Algo Trading, Data Analysis |
 | Hardware | Arduino, Sensors, IoT systems (exploring advanced robotics) |
 | DevOps & Tools | GitHub, Linux, CI/CD basics |
