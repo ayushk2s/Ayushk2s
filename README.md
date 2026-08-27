@@ -1,24 +1,38 @@
-# 👋 Hey, I'm Ayush Pandey
+<div align="center">
 
-### Quantitative Researcher • Algorithm Developer • AI/ML & Technology Builder
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:0f0f0f&height=220&section=header&text=Ayush%20Pandey&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Quantitative%20Researcher%20%E2%80%A2%20Algorithm%20Developer%20%E2%80%A2%20AI%2FML%20%26%20Technology%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
-I build **systematic trading strategies, intelligent software, and technology projects** at the intersection of quantitative finance, AI, automation, and engineering.
+<a href="https://www.linkedin.com/in/ayushk2s"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/ayushk2s"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://instagram.com/ayushk2s"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.threads.net/@ayushk2s"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
 
-My current work spans **algorithmic trading, quantitative research, financial data analysis, AI/ML, Flutter development, cloud systems, and robotics/embedded systems**.
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2E86FF&center=true&vCenter=true&width=800&lines=Building+systematic+trading+strategies;Researching+momentum%2C+volatility+%26+correlation;Shipping+AI%2FML+%2B+Flutter+%2B+Robotics+projects;Currently%3A+Head+Quantitative+Developer+%40+QSentia+LLC" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+> 🔭 **Currently:** Head Quantitative Developer @ **[QSentia LLC](https://qsentia.com)**
+> 🧪 **Independent research:** systematic trading, quantitative finance, AI/ML, robotics & embedded systems
+> 📍 Building in public — documenting the journey through code, research, and experimentation
 
 ---
 
 ## 🧠 About Me
 
-* 📈 **Quantitative Researcher & Algorithm Developer** focused on systematic trading and financial markets
-* 🐍 Strongly focused on **Python, quantitative research, backtesting & data analysis**
-* 💻 Building applications with **Flutter, Dart, Firebase & REST APIs**
-* 🤖 Exploring **AI/ML, reinforcement learning, robotics & autonomous systems**
-* ⚙️ Learning **C++** for deeper systems and robotics development
-* 📊 Researching **momentum, volatility, correlation, portfolio construction and systematic strategies**
-* 🏗️ Founder & builder of **Civonix**, a quantitative portfolio intelligence/tracking project
-* 🔬 Conducting independent research in **quantitative finance and algorithmic trading**
-* 🚀 Interested in building technology companies around **AI, autonomous systems and advanced engineering**
+- 📈 **Quantitative Researcher & Algorithm Developer** focused on systematic trading and financial markets
+- 🏢 **Head Quantitative Developer @ QSentia LLC**
+- 🐍 Strongly focused on **Python, quantitative research, backtesting & data analysis**
+- 💻 Building applications with **Flutter, Dart, Firebase & REST APIs**
+- 🤖 Exploring **AI/ML, reinforcement learning, robotics & autonomous systems**
+- ⚙️ Learning **C++** for deeper systems and robotics development
+- 📊 Researching **momentum, volatility, correlation, portfolio construction and systematic strategies**
+- 🏗️ Founder & builder of **Civonix**, a quantitative portfolio intelligence/tracking project
+- 🔬 Conducting independent research in **quantitative finance and algorithmic trading**
+- 🚀 Interested in building technology companies around **AI, autonomous systems and advanced engineering**
 
 ---
 
@@ -26,166 +40,105 @@ My current work spans **algorithmic trading, quantitative research, financial da
 
 ### Programming & Software
 
+<div align="left">
+<img src="https://skillicons.dev/icons?i=python,dart,flutter,firebase,cpp,git,github,linux" />
+</div>
+
 | Area            | Technologies                                                     |
-| --------------- | ---------------------------------------------------------------- |
-| Languages       | Python • Dart • C++                                              |
-| App Development | Flutter • Firebase • REST APIs                                   |
-| Data & Research | Pandas • NumPy • Data Analysis • Backtesting                     |
-| Quant Finance   | Algorithmic Trading • Systematic Strategies • Portfolio Research |
-| Development     | Git • GitHub • Linux                                             |
-| Cloud           | Firebase • Cloud-based application architecture                  |
+| ---------------- | ------------------------------------------------------------------ |
+| Languages         | Python • Dart • C++                                                |
+| App Development   | Flutter • Firebase • REST APIs                                     |
+| Data & Research   | Pandas • NumPy • Data Analysis • Backtesting                       |
+| Quant Finance     | Algorithmic Trading • Systematic Strategies • Portfolio Research    |
+| Development       | Git • GitHub • Linux                                                |
+| Cloud             | Firebase • Cloud-based application architecture                     |
 
 ### AI, Robotics & Hardware
 
-* 🤖 Machine Learning & AI
-* 🧠 Reinforcement Learning
-* ⚙️ Embedded Systems
-* 📡 IoT & Sensors
-* 🚗 Autonomous / robotic systems
-* 🛩️ Drones & autonomous systems
-* 🔬 Exploring robotics, aerospace & advanced engineering
+🤖 Machine Learning & AI &nbsp;•&nbsp; 🧠 Reinforcement Learning &nbsp;•&nbsp; ⚙️ Embedded Systems &nbsp;•&nbsp; 📡 IoT & Sensors &nbsp;•&nbsp; 🚗 Autonomous / Robotic Systems &nbsp;•&nbsp; 🛩️ Drones & Autonomous Systems &nbsp;•&nbsp; 🔬 Robotics, Aerospace & Advanced Engineering
 
 ---
 
-# 📈 Quantitative Research
+## 📈 Quantitative Research
 
-One of my primary areas of work is **systematic quantitative trading**.
+One of my primary areas of work is **systematic quantitative trading** — developing and backtesting algorithmic strategies using historical market data, quantitative signals, risk management, and portfolio-level analysis.
 
-I develop and backtest algorithmic strategies using historical market data, quantitative signals, risk management and portfolio-level analysis.
+**Research Areas**
 
-### Research Areas
+📊 Momentum & trend following &nbsp;•&nbsp; 🔄 Multi-strategy portfolio rotation &nbsp;•&nbsp; 📉 Volatility targeting &nbsp;•&nbsp; 🔗 Correlation-based strategies &nbsp;•&nbsp; 💰 Portfolio construction &nbsp;•&nbsp; ⚖️ Risk/reward optimization &nbsp;•&nbsp; 📈 Leverage-aware strategies &nbsp;•&nbsp; 🧪 Backtesting & statistical validation &nbsp;•&nbsp; 🌎 Multi-asset systematic investing &nbsp;•&nbsp; 🪙 Crypto quantitative trading
 
-* 📊 Momentum & trend following
-* 🔄 Multi-strategy portfolio rotation
-* 📉 Volatility targeting
-* 🔗 Correlation-based strategies
-* 💰 Portfolio construction
-* ⚖️ Risk/reward optimization
-* 📈 Leverage-aware strategies
-* 🧪 Backtesting & statistical validation
-* 🌎 Multi-asset systematic investing
-* 🪙 Crypto quantitative trading
-
-I have researched strategies across **equities and digital assets**, with an emphasis on systematic decision-making rather than discretionary trading.
-
-Some of my historical backtests have produced **40%+ CAGR and ~63% CAGR results**, although these are research/backtest figures rather than claims of guaranteed or live performance.
+I have researched strategies across **equities and digital assets**, with an emphasis on systematic decision-making rather than discretionary trading. Some of my historical backtests have produced **40%+ CAGR and ~63% CAGR results** — research/backtest figures, not claims of guaranteed or live performance.
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧮 Civonix
+A **quantitative portfolio intelligence and tracking platform** for analyzing and monitoring investment portfolios.
 
-A **quantitative portfolio intelligence and tracking platform** designed to help analyze and monitor investment portfolios.
+**Focus:** Portfolio tracking • Quantitative analytics • Strategy monitoring • Financial data • Systematic investing
 
-**Focus:**
-
-* Portfolio tracking
-* Quantitative analytics
-* Strategy monitoring
-* Financial data
-* Systematic investing
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 📈 Crypto Algorithmic Trading
+Quantitative trading research and algorithmic strategies for digital-asset markets.
 
-A collection of quantitative trading research and algorithmic strategies for digital-asset markets.
+**Research includes:** Momentum • Correlation • Trend signals • Volatility • Market regimes • Risk management • Automated strategy execution
 
-**Research includes:**
-
-* Momentum
-* Correlation
-* Trend signals
-* Volatility
-* Market regimes
-* Risk management
-* Automated strategy execution
-
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌾 FarmYara
+A smart agriculture application combining software, maps, and intelligent features for technology-driven agricultural solutions.
 
-A smart agriculture application combining software, maps and intelligent features to explore technology-driven agricultural solutions.
+**Technologies:** `Flutter` `Dart` `Firebase` `APIs`
 
-**Technologies:**
-`Flutter` `Dart` `Firebase` `APIs`
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 Robotics & Embedded Systems
+Building and experimenting with hardware systems using microcontrollers, sensors, and actuators.
 
-Building and experimenting with hardware systems using microcontrollers, sensors and actuators.
+**Exploring:** ESP32 • Raspberry Pi Pico • Sensors • Motor control • Autonomous robots • IoT • Drone concepts
 
-Current exploration includes:
-
-* ESP32
-* Raspberry Pi Pico
-* Sensors & embedded systems
-* Motor control
-* Autonomous robots
-* IoT systems
-* Drone / autonomous-system concepts
+</td>
+</tr>
+</table>
 
 ---
 
-# 🔬 Research Interests
+## 🔬 Research Interests
 
-I'm particularly interested in the intersection of:
+I'm particularly interested in the intersection of **AI × Quantitative Finance × Robotics × Autonomous Systems**.
 
-**AI × Quantitative Finance × Robotics × Autonomous Systems**
-
-Areas I want to explore deeper:
-
-* 🧠 Artificial Intelligence
-* 🤖 Autonomous Robotics
-* 🎮 Reinforcement Learning
-* 📈 Quantitative Finance
-* 🪙 Algorithmic Crypto Trading
-* 🛩️ Autonomous Drones
-* 🛰️ Aerospace Technology
-* 🛡️ Defense Technology
-* 🧬 Brain-Computer Interfaces
-* ⚙️ Intelligent Embedded Systems
+🧠 Artificial Intelligence &nbsp;•&nbsp; 🤖 Autonomous Robotics &nbsp;•&nbsp; 🎮 Reinforcement Learning &nbsp;•&nbsp; 📈 Quantitative Finance &nbsp;•&nbsp; 🪙 Algorithmic Crypto Trading &nbsp;•&nbsp; 🛩️ Autonomous Drones &nbsp;•&nbsp; 🛰️ Aerospace Technology &nbsp;•&nbsp; 🛡️ Defense Technology &nbsp;•&nbsp; 🧬 Brain-Computer Interfaces &nbsp;•&nbsp; ⚙️ Intelligent Embedded Systems
 
 ---
 
-# 📚 Current Learning
+## 📚 Current Learning
 
-Currently strengthening my foundations in:
-
-* Python for quantitative research
-* C++ and systems programming
-* Machine Learning
-* Reinforcement Learning
-* Mathematics for AI & quantitative finance
-* Physics & engineering
-* Robotics and autonomous systems
+Python for quantitative research • C++ and systems programming • Machine Learning • Reinforcement Learning • Mathematics for AI & quantitative finance • Physics & engineering • Robotics and autonomous systems
 
 My long-term goal is to combine **mathematics, software, AI and engineering** to build intelligent systems capable of solving complex real-world problems.
 
 ---
 
-# 🎯 My Vision
+## 🎯 My Vision
 
-> **"Build intelligent systems that amplify human potential."**
+<div align="center">
 
-I believe the most interesting technologies of the future will emerge from the combination of **AI, automation, robotics, finance, and advanced engineering**.
+### *"Build intelligent systems that amplify human potential."*
 
-Rather than simply using technology, I want to **understand how it works, build it from the ground up, and eventually create companies around it.**
+</div>
 
----
-
-# 🌍 Connect With Me
-
-I'm building in public and documenting my journey through technology, quantitative research, AI, and entrepreneurship.
-
-* 💼 LinkedIn — [Ayush Pandey](https://www.linkedin.com/in/ayushk2s)
-* 🧵 Threads — [@ayushk2s](https://www.threads.net/@ayushk2s)
-* 🐦 X — [@ayushk2s](https://x.com/ayushk2s)
-* 📸 Instagram — [@ayushk2s](https://instagram.com/ayushk2s)
-* 💻 GitHub — [@ayushk2s](https://github.com/ayushk2s)
-
+I believe the most interesting technologies of the future will emerge from the combination of **AI, automation, robotics, finance, and advanced engineering**. Rather than simply using technology, I want to **understand how it works, build it from the ground up, and eventually create companies around it**.
 
 ---
 
@@ -193,17 +146,47 @@ I'm building in public and documenting my journey through technology, quantitati
 
 ```text
 Quantitative Research       ████████████████████
-Algorithmic Trading        ███████████████████
-AI / Machine Learning      ████████████████
-Software Engineering       █████████████████
-Robotics / Embedded        ████████████
-C++ / Systems              █████████
+Algorithmic Trading         ███████████████████
+AI / Machine Learning       ████████████████
+Software Engineering        █████████████████
+Robotics / Embedded         ████████████
+C++ / Systems                █████████
 ```
 
 ---
 
-### 🚀 Building. Researching. Experimenting.
+## 📊 GitHub Stats
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ayushk2s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushk2s&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushk2s&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🌍 Connect With Me
+
+I'm building in public and documenting my journey through technology, quantitative research, AI, and entrepreneurship.
+
+<div align="center">
+<a href="https://www.linkedin.com/in/ayushk2s"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/ayushk2s"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://instagram.com/ayushk2s"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.threads.net/@ayushk2s"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
+<a href="https://github.com/ayushk2s"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
+
+<div align="center">
+
+### 🚀 Building. Researching. Experimenting.
 **One system at a time.**
 
 ⭐ If you find my projects interesting, feel free to explore my repositories and follow the journey.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a2a6c&height=100&section=footer"/>
+
+</div>
