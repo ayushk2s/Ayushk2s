@@ -158,12 +158,15 @@ C++ / Systems                █████████
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ayushk2s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushk2s&theme=tokyonight&hide_border=true" height="165"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushk2s&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://img.shields.io/github/followers/ayushk2s?style=for-the-badge&color=2E86FF&labelColor=1a1a1a&logo=github"/>
+<img src="https://img.shields.io/github/stars/ayushk2s?style=for-the-badge&color=2E86FF&labelColor=1a1a1a&logo=github"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ayushk2s&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=2E86FF&labelColor=1a1a1a&logo=github"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushk2s&theme=tokyonight&hide_border=true" height="165"/>
+
 </div>
 
 ---
