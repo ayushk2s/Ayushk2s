@@ -9,13 +9,13 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2E86FF&center=true&vCenter=true&width=800&lines=Building+systematic+trading+strategies;Researching+momentum%2C+volatility+%26+correlation;Shipping+AI%2FML+%2B+Flutter+%2B+Robotics+projects;Currently%3A+Head+Quantitative+Developer+%40+QSentia+LLC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2E86FF&center=true&vCenter=true&width=800&lines=Building+systematic+trading+strategies;Researching+momentum%2C+volatility+%26+correlation;Shipping+AI%2FML+%2B+Flutter+%2B+Robotics+projects;Independent+Researcher+%26+Algorithm+Developer" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-> 🔭 **Currently:** Head Quantitative Developer @ **[QSentia LLC](https://qsentia.com)**
+> 🔭 **Currently:** Independent Researcher & Algorithm Developer
 > 🧪 **Independent research:** systematic trading, quantitative finance, AI/ML, robotics & embedded systems
 > 📍 Building in public — documenting the journey through code, research, and experimentation
 
@@ -24,7 +24,6 @@
 ## 🧠 About Me
 
 - 📈 **Quantitative Researcher & Algorithm Developer** focused on systematic trading and financial markets
-- 🏢 **Head Quantitative Developer @ QSentia LLC**
 - 🐍 Strongly focused on **Python, quantitative research, backtesting & data analysis**
 - 💻 Building applications with **Flutter, Dart, Firebase & REST APIs**
 - 🤖 Exploring **AI/ML, reinforcement learning, robotics & autonomous systems**
